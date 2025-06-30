@@ -122,7 +122,9 @@ The evaluation uses two key metrics:
 1. **Valid Syntax Rate (VSR)**: Measures the percentage of generated code that executes without syntax errors
 2. **Intersection over Union (IoU)**: Measures geometric similarity between generated and ground truth 3D models
 
+### Weights
 
+Weights are not available, as this is part of a technical test. Please create an issue to request them if you need them. 
 
 ## Future Enhancements
 
