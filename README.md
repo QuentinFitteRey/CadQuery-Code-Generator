@@ -16,7 +16,7 @@ mecagent-technical-test/
 │   ├── valid_syntax_rate.py # VSR metric implementation
 │   └── best_iou.py          # IoU metric implementation
 ```
-## Results Summary
+## Results Summary (100 samples subset)
 
 | Model | VSR | Mean IoU | Notes |
 |-------|-----|----------|-------|
